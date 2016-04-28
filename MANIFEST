@@ -1,0 +1,7 @@
+setup.py
+src\__init__.py
+src\runner\__init__.py
+src\runner\main.py
+src\xml2json\__init__.py
+src\xml2json\conversion.py
+README.txt
